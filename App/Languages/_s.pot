@@ -1,0 +1,190 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: withoutwater\n"
+"POT-Creation-Date: 2021-07-04 10:37+0300\n"
+"PO-Revision-Date: 2021-07-04 10:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: withoutwater.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: App/View/settings/index.php:17
+msgid "Add New Category"
+msgstr ""
+
+#: App/View/settings/index.php:32
+msgid "General"
+msgstr ""
+
+#: App/View/settings/index.php:33
+msgid "Comments"
+msgstr ""
+
+#: App/View/settings/index.php:34
+msgid "Template"
+msgstr ""
+
+#: App/View/settings/index.php:35
+msgid "Metabox Example"
+msgstr ""
+
+#: App/View/settings/index.php:60
+msgid "Plugin enabled"
+msgstr ""
+
+#: App/View/settings/index.php:61
+msgid ""
+"Determines whether the plug-in is enabled. If not, the following message "
+"will be displayed."
+msgstr ""
+
+#: App/View/settings/index.php:63 App/View/settings/index.php:102
+msgid "Yes"
+msgstr ""
+
+#: App/View/settings/index.php:64 App/View/settings/index.php:103
+msgid "No"
+msgstr ""
+
+#: App/View/settings/index.php:68
+msgid "Disabled plugin message"
+msgstr ""
+
+#: App/View/settings/index.php:69
+msgid "Displays on frontend if plugin disabled."
+msgstr ""
+
+#: App/View/settings/index.php:73
+msgid "Main Background Color"
+msgstr ""
+
+#: App/View/settings/index.php:80 App/View/settings/index.php:109
+#: App/View/settings/index.php:436 App/View/settings/index.php:539
+msgid "Save Changes"
+msgstr ""
+
+#: App/View/settings/index.php:83
+msgid "Save Changes Locked"
+msgstr ""
+
+#: App/View/settings/index.php:99
+msgid "Comments enabled"
+msgstr ""
+
+#: App/View/settings/index.php:100
+msgid "Determines whether the comments are globally enabled."
+msgstr ""
+
+#: App/View/settings/index.php:482
+msgid "Name"
+msgstr ""
+
+#: App/View/settings/index.php:487
+msgid "Parent Category"
+msgstr ""
+
+#: App/View/settings/index.php:495
+msgid "URL (slug)"
+msgstr ""
+
+#: App/View/settings/index.php:500
+msgid "Short Name (for quick search)"
+msgstr ""
+
+#: App/View/settings/index.php:509
+msgid "Description"
+msgstr ""
+
+#: App/View/settings/index.php:516
+msgid "Image"
+msgstr ""
+
+#: App/View/settings/index.php:521
+msgid "Choose image"
+msgstr ""
+
+#: App/View/settings/index.php:522
+msgid "Remove image"
+msgstr ""
+
+#: App/View/settings/index.php:529
+msgid "Active"
+msgstr ""
+
+#: App/View/settings/index.php:538
+msgid "Close"
+msgstr ""
+
+#: System/meta-box-class/meta-box-class.php:365
+msgid "Select a color"
+msgstr ""
+
+#: System/update-checker/Puc/v4p10/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: System/update-checker/Puc/v4p10/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: System/update-checker/Puc/v4p10/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: System/update-checker/Puc/v4p10/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: System/update-checker/Puc/v4p10/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: System/update-checker/Puc/v4p10/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: System/update-checker/Puc/v4p10/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: System/update-checker/Puc/v4p10/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "withoutwater"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wpdew.ru/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "withoutwater description"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Имя автора"
+msgstr ""
